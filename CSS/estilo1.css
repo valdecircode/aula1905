@@ -1,0 +1,171 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+
+
+}
+
+#container {
+    width: 960px;
+    height: 1050px;
+    margin: 0 auto;
+
+
+
+}
+
+#banner {
+    width: 960;
+    height: 100px;
+    margin: 0 auto;
+    border: 2px solid;
+    color: red;
+}
+
+#banner img {
+    width: 80%;
+    height: 100px;
+    margin-left: 100px;
+    margin-right: center;
+
+
+}
+
+#texto {
+    width: 800px;
+    height: 800px;
+    margin-top: -804px;
+    margin-left: 155px;
+    border: 2px solid;
+    color: rgb(255, 4, 4);
+
+}
+
+#texto1 {
+    width: 360px;
+    height: 800px;
+    margin-top: -804px;
+    margin-left: 155px;
+    border: 2px solid;
+    color: rgb(255, 4, 4);
+    text-align: justify;
+
+}
+
+#p {
+    text-align: justify;
+    color: rgb(0, 179, 125);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+#h1 {
+    text-align: left;
+    color: red;
+
+}
+
+#h2 {
+    text-align: center;
+    color: red;
+}
+
+#video1 {
+    width: 200px;
+    height: 200px;
+    margin-top: -750px;
+    margin-left: 750px;
+    background: rgb(0, 255, 200);
+    color: #fff;
+
+}
+
+#video2 {
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 530px;
+    background: rgb(153, 133, 23);
+    color: #fff;
+
+}
+
+#video3 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 750px;
+    background: rgb(23, 153, 45);
+    color: #fff;
+
+}
+
+#video4 {
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 530px;
+    background: rgb(46, 0, 58);
+    color: #fff;
+
+}
+
+#link {
+    width: 150px;
+    height: 800px;
+    margin-top: 5px;
+    margin-left: 0px;
+    border: 2px solid;
+    color: red;
+
+}
+
+#alink {
+    text-align: center;
+    margin-top: 200px;
+    color: red;
+
+
+}
+
+#footer {
+    width: 955px;
+    height: 100px;
+    margin-top: 345px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+    border: 2px solid;
+    color: red;
+    text-align: center;
+
+}
+/* Formularios */
+
+.box {
+    width: 80%;
+    margin: auto;
+    margin-top: 140px;
+    
+    }
+.main-form {
+    padding-left: 10%;
+
+}
+.main-form .form-group {
+      padding-bottom: 10px;
+
+}
+.main-form .form-group input {
+     padding: 10px;
+     width: 80%;
+     align-items: center;
+
+}
+
+.main-form .form-group label {
+      display: block;
+
+
+}
